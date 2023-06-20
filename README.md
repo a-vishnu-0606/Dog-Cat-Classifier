@@ -1,1 +1,3 @@
 # Dog-Cat-Classifier
+Problem statement:
+We are given a set of dog and cat images. The task is to build a model to predict the category of an animal: dog or cat?
